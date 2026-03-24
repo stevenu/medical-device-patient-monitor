@@ -1,0 +1,30 @@
+# --- Secrets, Keys, and Certificates ---
+*.pem
+*.pfx
+*.cer
+*.crt
+*.key
+*.pub
+*.env
+*.env.local
+*.pem
+secrets/
+key.properties
+
+# --- Build Artifacts ---
+dist/
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+
+# --- Logs and Temporary Files ---
+*.log
+.tmp
+.DS_Store
