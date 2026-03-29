@@ -61,6 +61,7 @@ Not for clinical use under any circumstances.
 
 Author
 
-[Steven Usrey](https://github.com/stevenu). 
-LinkedIn: linkedin.com/in/stevenusrey. 
-Building toward Medical Device FAE — following along via the LinkedIn post series.  
+[Steven Usrey](https://github.com/stevenu)\
+LinkedIn: linkedin.com/in/stevenusrey\
+Building toward Medical Device FAE — following along via the LinkedIn post series.\
+
