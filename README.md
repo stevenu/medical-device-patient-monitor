@@ -63,5 +63,5 @@ Author
 
 [Steven Usrey](https://github.com/stevenu)\
 LinkedIn: linkedin.com/in/stevenusrey\
-Building toward Medical Device FAE — following along via the LinkedIn post series.\
+Building toward Medical Device FAE — following along via the LinkedIn post series.
 
